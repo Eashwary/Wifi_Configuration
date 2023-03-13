@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBResponsePayload.m \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/dyld.modulemap \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/libxml2/libxml/module.modulemap \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBElementCache.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBResponseFilePayload.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBResponseJSONPayload.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBSession.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBMathUtils.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBMacros.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCElementSnapshot.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCUIElement.h

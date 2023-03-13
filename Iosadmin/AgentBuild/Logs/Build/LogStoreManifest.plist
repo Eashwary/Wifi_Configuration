@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>42A06C17-8771-4ED0-BCB9-43113474FFB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42A06C17-8771-4ED0-BCB9-43113474FFB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebDriverAgent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebDriverAgentRunner</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean WebDriverAgentRunner</string>
+			<key>timeStartedRecording</key>
+			<real>636014918.53578603</real>
+			<key>timeStoppedRecording</key>
+			<real>636014918.57076097</real>
+			<key>title</key>
+			<string>Clean WebDriverAgentRunner</string>
+			<key>uniqueIdentifier</key>
+			<string>42A06C17-8771-4ED0-BCB9-43113474FFB5</string>
+		</dict>
+		<key>5C4F8093-D6C2-4A42-AA24-247C6B4D7598</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C4F8093-D6C2-4A42-AA24-247C6B4D7598.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebDriverAgent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebDriverAgentRunner</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WebDriverAgentRunner</string>
+			<key>timeStartedRecording</key>
+			<real>636014963.38153994</real>
+			<key>timeStoppedRecording</key>
+			<real>636014982.66428196</real>
+			<key>title</key>
+			<string>Build WebDriverAgentRunner</string>
+			<key>uniqueIdentifier</key>
+			<string>5C4F8093-D6C2-4A42-AA24-247C6B4D7598</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

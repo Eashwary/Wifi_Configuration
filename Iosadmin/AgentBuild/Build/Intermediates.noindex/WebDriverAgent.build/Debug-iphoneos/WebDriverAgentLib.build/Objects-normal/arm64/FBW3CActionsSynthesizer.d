@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBW3CActionsSynthesizer.m \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBW3CActionsSynthesizer.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBBaseActionsSynthesizer.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBElementCache.h \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/mach-o/dyld.modulemap \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/libxml2/libxml/module.modulemap \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCUIApplication.h \
+  /Applications/Xcode_12.2.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCElementSnapshot.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCSynthesizedEventRecord.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBErrorBuilder.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBMacros.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBMathUtils.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCElementSnapshot+FBHelpers.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCUIApplication+FBHelpers.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCUIElement+FBIsVisible.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCUIElement.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCPointerEventPath.h \
+  /Users/radmin/build/Agent/PrivateHeaders/XCTest/XCPointerEvent.h

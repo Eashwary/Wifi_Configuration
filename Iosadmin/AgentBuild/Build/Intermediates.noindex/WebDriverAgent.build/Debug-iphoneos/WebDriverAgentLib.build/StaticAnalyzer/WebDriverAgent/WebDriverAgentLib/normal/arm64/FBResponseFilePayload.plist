@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>clang_version</key>
+<string>Apple clang version 12.0.0 (clang-1200.0.32.27)</string>
+ <key>diagnostics</key>
+ <array>
+  <dict>
+   <key>path</key>
+   <array>
+    <dict>
+     <key>kind</key><string>event</string>
+     <key>location</key>
+     <dict>
+      <key>line</key><integer>20</integer>
+      <key>col</key><integer>1</integer>
+      <key>file</key><integer>0</integer>
+     </dict>
+     <key>depth</key><integer>0</integer>
+     <key>extended_message</key>
+     <string>&apos;FBResponseFilePayload&apos; lacks a &apos;dealloc&apos; instance method but must release &apos;_path&apos;</string>
+     <key>message</key>
+     <string>&apos;FBResponseFilePayload&apos; lacks a &apos;dealloc&apos; instance method but must release &apos;_path&apos;</string>
+    </dict>
+   </array>
+   <key>description</key><string>&apos;FBResponseFilePayload&apos; lacks a &apos;dealloc&apos; instance method but must release &apos;_path&apos;</string>
+   <key>category</key><string>Core Foundation/Objective-C</string>
+   <key>type</key><string>Missing -dealloc</string>
+   <key>check_name</key><string>osx.cocoa.Dealloc</string>
+   <!-- This hash is experimental and going to change! -->
+   <key>issue_hash_content_of_line_in_context</key><string>7c0f7032642eb31529417015ade0be29</string>
+  <key>location</key>
+  <dict>
+   <key>line</key><integer>20</integer>
+   <key>col</key><integer>1</integer>
+   <key>file</key><integer>0</integer>
+  </dict>
+  <key>ExecutedLines</key>
+  <dict>
+   <key>0</key>
+   <array>
+    <integer>20</integer>
+   </array>
+  </dict>
+  </dict>
+ </array>
+ <key>files</key>
+ <array>
+  <string>/Users/radmin/build/Agent/WebDriverAgentLib/Routing/FBResponseFilePayload.m</string>
+ </array>
+</dict>
+</plist>

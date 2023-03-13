@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>36245C2E-419E-41D7-B163-BC9D61904706</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>36245C2E-419E-41D7-B163-BC9D61904706.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>WebDriverAgentLib-dnvflajkdlwtmmcduevntxfltnen</string>
+			<key>timeStartedRecording</key>
+			<real>636014963.66520202</real>
+			<key>timeStoppedRecording</key>
+			<real>636014981.64964998</real>
+			<key>title</key>
+			<string>Build target WebDriverAgentLib</string>
+			<key>uniqueIdentifier</key>
+			<string>36245C2E-419E-41D7-B163-BC9D61904706</string>
+		</dict>
+		<key>DE2FADF6-4354-4EA8-A036-2F1D25F2BC7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
+			<key>fileName</key>
+			<string>DE2FADF6-4354-4EA8-A036-2F1D25F2BC7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Agent-dnvflajkdlwtmmcduevntxfltnen</string>
+			<key>timeStartedRecording</key>
+			<real>636014963.66016805</real>
+			<key>timeStoppedRecording</key>
+			<real>636014982.65964997</real>
+			<key>title</key>
+			<string>Build target Agent</string>
+			<key>uniqueIdentifier</key>
+			<string>DE2FADF6-4354-4EA8-A036-2F1D25F2BC7E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
